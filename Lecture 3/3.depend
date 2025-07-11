@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692096081 source:d:\games\babbar\3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709020533 source:d:\code\c++\babbar\lecture 9\main.cpp
+	<iostream>
+	<algorithm>
+

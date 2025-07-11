@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692539962 source:d:\games\babbar\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1693023714 source:d:\code\c++\babbar\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+

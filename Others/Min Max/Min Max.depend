@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709393950 source:d:\code\c++\babbar\min max\main.cpp
+	<stdio.h>
+	<limits.h>
+
